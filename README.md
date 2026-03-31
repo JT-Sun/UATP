@@ -23,7 +23,7 @@ This repository presents our uncertainty-aware trajectory prediction framework, 
 Our method adopts a **dual-head architecture** to estimate these two uncertainties in an end-to-end manner, and injects them into downstream trajectory prediction models as enriched map representations. This design improves robustness while remaining compatible with existing online mapping and forecasting pipelines.
 
 <p align="center">
-  <img src="framework_image.png" alt="Framework Overview" width="92%">
+  <img src="icmlarch.png" alt="Framework Overview" width="92%">
 </p>
 
 ---
