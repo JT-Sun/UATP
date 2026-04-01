@@ -3,7 +3,7 @@
 # Uncertainty-Aware Trajectory Prediction
 ### A Unified Framework Harnessing Positional and Semantic Uncertainties
 
-[![arXiv]([https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg](https://arxiv.org/html/2603.29362v1))](<ARXIV_LINK>)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.29362-b31b1b.svg)](https://arxiv.org/html/2603.29362v1)
 
 **Jintao Sun, Hu Zhang, Gangyi Ding, Zhedong Zheng**
 
