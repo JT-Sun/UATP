@@ -3,7 +3,7 @@
 # Uncertainty-Aware Trajectory Prediction
 ### A Unified Framework Harnessing Positional and Semantic Uncertainties
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](<ARXIV_LINK>)
+[![arXiv]([https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg](https://arxiv.org/html/2603.29362v1))](<ARXIV_LINK>)
 
 **Jintao Sun, Hu Zhang, Gangyi Ding, Zhedong Zheng**
 
@@ -96,9 +96,12 @@ These uncertainty-aware map features are then concatenated with map representati
 If you find this work helpful, please consider citing:
 
 ```bibtex
-@article{sun_uncertainty_trajectory_prediction,
-  title={Uncertainty-Aware Trajectory Prediction: A Unified Framework Harnessing Positional and Semantic Uncertainties},
-  author={Sun, Jintao and Zhang, Hu and Ding, Gangyi and Zheng, Zhedong},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={XXXX}
+@misc{sun2026uncertaintyawaretrajectorypredictionunified,
+      title={Uncertainty-Aware Trajectory Prediction: A Unified Framework Harnessing Positional and Semantic Uncertainties}, 
+      author={Jintao Sun and Hu Zhang and Gangyi Ding and Zhedong Zheng},
+      year={2026},
+      eprint={2603.29362},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.29362}, 
 }
